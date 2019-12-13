@@ -1,7 +1,7 @@
 ## Code your solution below. Note that your SQL queries should be in quotation marks. 
 
 def highest_student_gpa
-  "SELECT * MAX FROM table_name WHERE column_name = some_value;"
+  "SELECT * MAX FROM student WHERE column_name = some_value;"
 end
 
 def lowest_student_gpa
